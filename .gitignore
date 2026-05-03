@@ -1,0 +1,15 @@
+# Ignore temporary workspaces and raw files
+Temp_Workspace/
+temp_video.mp4
+temp_audio.m4a
+
+# Ignore Python specific files
+__pycache__/
+*.pyc
+
+# Ignore virtual environments (if you use one later)
+venv/
+env/
+
+# ignore the final downloads 
+Final_Downloads/
