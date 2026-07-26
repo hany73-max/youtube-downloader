@@ -10,6 +10,7 @@ __pycache__/
 # Ignore virtual environments (if you use one later)
 venv/
 env/
+.venv
 
 # ignore the final downloads 
 Final_Downloads/
